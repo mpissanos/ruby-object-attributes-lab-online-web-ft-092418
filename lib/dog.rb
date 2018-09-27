@@ -1,4 +1,4 @@
-c
+class Dog
 
 def name
   @name
